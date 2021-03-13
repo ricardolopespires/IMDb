@@ -13,7 +13,7 @@ Projeto IMDB em Django
     <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ricardolopespires/IMDb" />
     <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/ricardolopespires/IMDb" />
                 
-   <img align = right src="https://github.com/ricardolopespires/IMDb/blob/main/IMDb.jpg" width = 490/>
+   <img align = right src="https://github.com/ricardolopespires/IMDb/blob/main/Projeto%20Imdb.png" width = 490/>
 </p>
 
 
