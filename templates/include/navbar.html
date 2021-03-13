@@ -1,0 +1,21 @@
+{% load static %}
+
+
+
+<header class="">
+    <a href="#" class="hero-logo">
+        <img src="{% static 'img/logo-imdb.jpg' %}" alt="Logo IMDB" />
+    </a>
+    <ul class="hero-lista">
+        <li class="hero-lista-item"><a href="{% url 'index' %}">Home</a></li>
+        <li class="hero-lista-item"><a href="{% url 'lancamentos' %}">Lançamentos</a></li>        
+        <li class="hero-lista-item"><a href="{% url 'cartaz' %}">Em Cartaz</a></li>
+    </ul>
+    <ul class="hero-lista accounts">
+        <li class="hero-lista-item"><a href="{% url 'login' %}">Login</a></li>
+        <span>/</span>
+        <li class="hero-lista-item"><a href="#">Register</a></li>       
+    </ul>
+</header>
+
+
