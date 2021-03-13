@@ -1,20 +1,19 @@
 
 
 
-# IMDb
+# Projeto de Desenvolvimento IMDb 
 Projeto IMDB em Django 
 
-
 <p align = left'>
-    <img alt="PyPI - Django Version" src="https://img.shields.io/pypi/djversions/IMDb">
-    <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/IMDb">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ricardolopespires/IMDb">
-    <img alt="" src="https://img.shields.io/github/repo-size/ricardolopespires/IMDb" />
-    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/ricardolopespires/IMDb" />
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ricardolopespires/IMDb">
-    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/ricardolopespires/IMDb />
+    <img alt="PyPI - Django Version" src="https://img.shields.io/pypi/djversions/djangorestframework">
+    <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Django">
+    <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ricardolopespires/Django" />
+    <img alt="" src="https://img.shields.io/github/repo-size/ricardolopespires/Django" />
+    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/ricardolopespires/Django" />
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ricardolopespires/Django" />
+    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/ricardolopespires/Django" />
                 
-   <img align = right src="http://www.thatsmye.com/wp-content/uploads/2016/12/IMDb.jpg" width = 490/>
+   <img align = right src="https://github.com/ricardolopespires/Django/blob/master//banner-django.png" width = 490/>
 </p>
 
 
